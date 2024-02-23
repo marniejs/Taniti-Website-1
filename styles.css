@@ -1,0 +1,10 @@
+#logo {
+    width: 50px;
+    margin: 10px;
+}
+
+#site-header {
+    display: flex;
+    flex-direction: row;
+}
+
